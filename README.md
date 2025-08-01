@@ -6,7 +6,7 @@ This Python project tracks a portfolio of stocks in real-time and performs risk 
 ## Features
 -  Fetch stock data using `yfinance`
 -  Calculate portfolio return, volatility, Sharpe Ratio
-- ⚖ Optimize portfolio weights for maximum Sharpe Ratio using `cvxpy`
+-  Optimize portfolio weights for maximum Sharpe Ratio using `cvxpy`
 -  Simulate Value at Risk (VaR) using Monte Carlo
 -  Visualize results (optional with matplotlib/streamlit)
 
